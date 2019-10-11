@@ -1,4 +1,4 @@
-let = 120; 
+let x = 120; 
 function nueva(120) {  
     x = 100; 
 }
